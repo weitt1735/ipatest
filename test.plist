@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://101.201.53.0:9980/test/plist/a1.ipa</string>
+                    <string>http://192.168.0.107/test/plist/s1.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
